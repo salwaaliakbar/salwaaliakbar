@@ -52,6 +52,5 @@ Machine learning application for environmental data analysis and prediction.
 
 ## 📫 Let's Connect
 
-LinkedIn: linkedin.com/in/salwa-ansari-b55404240
-
-Email: salwaaliakbar22@gmail.com
+- LinkedIn: [linkedin.com/in/salwa-ansari-b55404240](https://www.linkedin.com/in/salwa-ansari-b55404240/)
+- Email: [salwaaliakbar22@gmail.com](mailto:salwaaliakbar22@gmail.com)
