@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Salwa Ansari 👋
 
-<!--
-**salwaaliakbar/salwaaliakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Software Engineer | AI-Powered Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable web applications and AI-powered solutions using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+🤖 Mona-AI — Jarvis-style AI desktop assistant
+
+## 💼 Experience
+
+- Associate Software Engineer @ Quantree
+- Full Stack AI Engineer @ HyperLogic
+- MERN Stack & Data Science Intern @ 10Pearls
+
+## 🛠 Tech Stack
+
+Frontend:
+React.js, Next.js, TypeScript
+
+Backend:
+Node.js, Express.js, Python, FastAPI
+
+Database:
+MongoDB, PostgreSQL, MySQL
+
+AI:
+LLMs, NLP, AI Agents, Machine Learning
+
+## 📌 Featured Projects
+
+- CareerTrust — AI-powered employment platform
+- Mona-AI — AI desktop assistant
+- HypnoSwitch — Subscription platform
