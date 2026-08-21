@@ -1,35 +1,57 @@
 # Hi, I'm Salwa Ansari 👋
 
-Associate Software Engineer | AI-Powered Full Stack Developer
+**Associate Software Engineer | AI-Powered Full Stack Developer**
 
-I build scalable web applications and AI-powered solutions using modern technologies.
+I build scalable web applications and AI-powered systems using modern full-stack technologies.
 
-## 🚀 Currently Working On
+My interests include:
+- 🧩 Full Stack Application Development
+- 🤖 AI Agents & Large Language Models
+- ⚙️ Automation & Intelligent Workflows
 
-🤖 Mona-AI — Jarvis-style AI desktop assistant
 
-## 💼 Experience
+## 🚀 Currently Building
 
-- Associate Software Engineer @ Quantree
-- Full Stack AI Engineer @ HyperLogic
-- MERN Stack & Data Science Intern @ 10Pearls
+### Mona-AI
+A Jarvis-style AI desktop assistant focused on:
+- Voice interaction
+- Desktop & browser automation
+- LLM-powered workflows
+- Intelligent task execution
+
 
 ## 🛠 Tech Stack
 
-Frontend:
-React.js, Next.js, TypeScript
+**Frontend**
+React.js • Next.js • TypeScript
 
-Backend:
-Node.js, Express.js, Python, FastAPI
+**Backend**
+Node.js • Express.js • Python • FastAPI
 
-Database:
-MongoDB, PostgreSQL, MySQL
+**Database**
+MongoDB • PostgreSQL • MySQL
 
-AI:
-LLMs, NLP, AI Agents, Machine Learning
+**AI / ML**
+LLMs • AI Agents • NLP • Transformers • Machine Learning
 
-## 📌 Featured Projects
+**Tools**
+Git • Docker • GitHub Actions • Cloud Deployment
 
-- CareerTrust — AI-powered employment platform
-- Mona-AI — AI desktop assistant
-- HypnoSwitch — Subscription platform
+
+## ⭐ Featured Projects
+
+### CareerTrust
+AI-powered employment platform for intelligent candidate-job matching and recruitment automation.
+
+### HypnoSwitch
+Full-stack subscription platform with payments, audio streaming, and role-based access.
+
+### AQI Predictor
+Machine learning application for environmental data analysis and prediction.
+
+
+## 📫 Let's Connect
+
+LinkedIn: linkedin.com/in/salwa-ansari-b55404240
+
+Email: salwaaliakbar22@gmail.com
