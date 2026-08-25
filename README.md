@@ -1,7 +1,7 @@
 # Hi, I'm Salwa Ansari 👋
-**Full Stack Developer Integrating AI into Production Apps**
+**Associate Software Engineer | Full Stack Developer Integrating AI into Production Apps**
 
-I take AI/ML models — LLMs, face recognition, recommendation systems — and wire them into real, shipped full-stack apps instead of leaving them as notebooks.
+I build full-stack web applications and integrate AI/ML models into them — LLMs, face recognition, and recommendation systems, wired into real, production-ready products rather than standalone demos.
 
 📍 Karachi &nbsp;|&nbsp; 🌐 [Portfolio](https://salwa-portfolio-salwas-projectse922f067.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/salwa-ansari-b55404240/)
 
@@ -26,8 +26,8 @@ Currently @ **Quantree**, building on a robo-advisory/investment platform · pre
 `React` `Next.js` `TypeScript` `Node.js` `Express` `Python` `FastAPI` `MongoDB` `PostgreSQL` `Prisma` `OpenAI/LLMs` `TensorFlow` `Docker`
 
 ## 📊 GitHub Activity
-![Salwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Salwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=salwaaliakbar&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaaliakbar&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/salwa-ansari-b55404240/) · [salwaaliakbar22@gmail.com](mailto:salwaaliakbar22@gmail.com)
