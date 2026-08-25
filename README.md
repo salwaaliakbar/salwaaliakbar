@@ -25,9 +25,5 @@ Currently @ **Quantree**, building on a robo-advisory/investment platform · pre
 ## 🛠 Stack I Actually Ship With
 `React` `Next.js` `TypeScript` `Node.js` `Express` `Python` `FastAPI` `MongoDB` `PostgreSQL` `Prisma` `OpenAI/LLMs` `TensorFlow` `Docker`
 
-## 📊 GitHub Activity
-![Salwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=salwaaliakbar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salwaaliakbar&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/salwa-ansari-b55404240/) · [salwaaliakbar22@gmail.com](mailto:salwaaliakbar22@gmail.com)
